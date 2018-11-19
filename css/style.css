@@ -52,7 +52,10 @@ img:hover {
   height: 300px;
   background:grey;
   display: inline-block; /*this attribute includes plus 4px between element*/
-
 }
+
+img {
+  width: 100%;
+} /*so it's a third of the parent element*/
 
 /* create your tile classes! we recommend .small .med .large */
