@@ -58,4 +58,8 @@ img {
   width: 100%;
 } /*so it's a third of the parent element*/
 
+.medium {
+  width: 204;
+}
+
 /* create your tile classes! we recommend .small .med .large */
