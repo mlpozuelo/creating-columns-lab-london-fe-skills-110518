@@ -49,7 +49,6 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
   width: 32%; /*instead of 33% due to 4px gap*/
-  height: 300px;
   display: inline-block; /*this attribute includes plus 4px between element*/
 }
 
