@@ -53,7 +53,6 @@ img:hover {
   background:grey;
   display: inline-block; /*this attribute includes plus 4px between element*/
 
-  margin-left: -4px;
 }
 
 /* create your tile classes! we recommend .small .med .large */
